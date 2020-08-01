@@ -13,6 +13,7 @@ joblib = "*"
 scikit-learn = "*"
 matplotlib = "*"
 seaborn = "*"
+heroku = "*"
 
 [requires]
 python_version = "3.8"
